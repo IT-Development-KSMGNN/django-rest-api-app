@@ -1,0 +1,4 @@
+app/rent_portal/private.json
+app/api/__pycache__/
+app/rent_portal/__pycache__/
+app/api/migrations/
